@@ -1,2 +1,4 @@
 # Hello-world
-This is my first github repository 
+Hi everybody!
+This is our readme file,
+We are developing project using flutter and django. 
